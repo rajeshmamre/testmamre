@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 hii line changed
-
 another line added to the central
-=======
-hiihii line changed
 my new line
->>>>>>> text doc changed
